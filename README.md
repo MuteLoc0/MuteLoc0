@@ -1,4 +1,5 @@
-## Hi there 👋
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/MuteLoc0?cardType=github&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+<!-- ## Hi there 👋 -->
 
 <!--
 **MuteLoc0/MuteLoc0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
